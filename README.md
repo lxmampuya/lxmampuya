@@ -1,11 +1,11 @@
-<!-- Header Banner -->
+<!-- Animated Banner Header - Customized to your Navy Blue Palette -->
 <div align="center">
-  <img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:002D5A,50:004B8D,100:002D5A&height=220&section=header&text=ALEX%20MAMPUYA&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Robotics%20MSc%20Student%20%7C%20Machine%20Learning%20%7C%20System%20Architecture&descAlignY=60&fontColor=fff](https://capsule-render.vercel.app/api?type=waving&color=0:002D5A,50:004B8D,100:002D5A&height=220&section=header&text=ALEX%20MAMPUYA&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Robotics%20MSc%20Student%20%7C%20Machine%20Learning%20%7C%20System%20Architecture&descAlignY=60&fontColor=fff)" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:002D5A,50:004B8D,100:002D5A&height=260&section=header&text=ALEX%20MAMPUYA&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Robotics%20MSc%20Student%20%7C%20Machine%20Learning%20%7C%20System%20Architecture&descAlignY=58&fontColor=fff" />
 </div>
 
 <div align="center">
   <img
-    src="[https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=002D5A&center=true&vCenter=true&width=900&lines=MSc+Robotics+%40+TU+Delft;System+Architect+%26+Data+Engineer;Focusing+on+Computer+Vision+%26+Autonomy;Winner+of+Robotics+Project+Award](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=002D5A&center=true&vCenter=true&width=900&lines=MSc+Robotics+%40+TU+Delft;System+Architect+%26+Data+Engineer;Focusing+on+Computer+Vision+%26+Autonomy;Winner+of+Robotics+Project+Award)."
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=002D5A&center=true&vCenter=true&width=900&lines=MSc+Robotics+%40+TU+Delft;Focusing+on+Computer+Vision+%26+Autonomy;System+Architect+%26+Data+Engineer;Building+intelligent+machines;Winner+of+Robotics+Project+Award."
     alt="Typing SVG"
   />
 </div>
