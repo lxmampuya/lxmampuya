@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- Header Banner -->
+<div align="center">
+  <img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:002D5A,50:004B8D,100:002D5A&height=220&section=header&text=ALEX%20MAMPUYA&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Robotics%20MSc%20Student%20%7C%20Machine%20Learning%20%7C%20System%20Architecture&descAlignY=60&fontColor=fff](https://capsule-render.vercel.app/api?type=waving&color=0:002D5A,50:004B8D,100:002D5A&height=220&section=header&text=ALEX%20MAMPUYA&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Robotics%20MSc%20Student%20%7C%20Machine%20Learning%20%7C%20System%20Architecture&descAlignY=60&fontColor=fff)" />
+</div>
 
-<!--
-**lxmampuya/lxmampuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img
+    src="[https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=002D5A&center=true&vCenter=true&width=900&lines=MSc+Robotics+%40+TU+Delft;System+Architect+%26+Data+Engineer;Focusing+on+Computer+Vision+%26+Autonomy;Winner+of+Robotics+Project+Award](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=002D5A&center=true&vCenter=true&width=900&lines=MSc+Robotics+%40+TU+Delft;System+Architect+%26+Data+Engineer;Focusing+on+Computer+Vision+%26+Autonomy;Winner+of+Robotics+Project+Award)."
+    alt="Typing SVG"
+  />
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## `whoami`
+
+```typescript
+const alex = {
+  role: "Robotics MSc Student @ TU Delft",
+  location: "Delft, NL 🇳🇱 | Antwerp, BE 🇧🇪",
+  education: {
+    masters: "MSc Robotics @ TU Delft (2025–Present)",
+    bachelors: "BSc Mechanical Engineering @ TU Delft (2021–2025)",
+    minor: "Offshore Wind Energy (Aerospace Engineering)"
+  },
+  technicalFocus: [
+    "Computer Vision & Perception",
+    "Machine Learning (LightGBM, YOLO)",
+    "System Architecture",
+    "Predictive Modeling"
+  ],
+  awards: "Robotics Project Award Winner"
+};
