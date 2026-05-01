@@ -1,19 +1,19 @@
 <!-- Animated Banner Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:002D5A,50:004B8D,100:002D5A&height=260&section=header&text=ALEX%20MAMPUYA&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Autonomy%20%26%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=58&fontColor=fff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:002D5A,50:004B8D,100:002D5A&height=260&section=header&text=ALEX%20MAMPUYA&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Autonomy%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Navigation&descAlignY=58&fontColor=fff" />
 </div>
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=002D5A&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+%F0%9F%A4%96;MSc+Robotics+%40+TU+Delft"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=002D5A&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+%F0%9F%A4%96;MSc+Robotics+%40+TU+Delft;System+Architect+%26+Data+Engineer"
     alt="Typing SVG"
   />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lxmampuya&label=Profile%20Views&color=FF6B35&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/lxmampuya?label=Followers&style=for-the-badge&color=F7931E" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/lxmampuya?label=Total%20Stars&style=for-the-badge&color=FFD23F" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=lxmampuya&label=Profile%20Views&color=002D5A&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/lxmampuya?label=Followers&style=for-the-badge&color=004B8D" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/lxmampuya?label=Total%20Stars&style=for-the-badge&color=002D5A" alt="GitHub stars" />
 </div>
 
 <br>
