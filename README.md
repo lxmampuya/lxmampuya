@@ -1,4 +1,4 @@
-<!-- Animated Banner Header - Customized to your Navy Blue Palette -->
+<!-- Animated Banner Header -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:002D5A,50:004B8D,100:002D5A&height=260&section=header&text=ALEX%20MAMPUYA&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Autonomy%20%26%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=58&fontColor=fff" />
 </div>
@@ -29,15 +29,16 @@ const alex = {
   education: {
     masters: "MSc Robotics @ TU Delft (2025–Present)",
     bachelors: "BSc Mechanical Engineering @ TU Delft (2021–2025)",
-    minor: "Offshore Wind Energy (Aerospace Engineering)"
+    minor: "Offshore Wind Energy @ Aerospace Engineering Faculty"
   },
-  technicalFocus: [
+  interests: [
     "Computer Vision & Perception",
-    "Machine Learning (LightGBM, YOLO)",
     "System Architecture",
-    "Predictive Modeling"
+    "Predictive Modeling",
+    "Planning & Decision Making"
   ],
-  awards: "Robotics Project Award Winner"
+  languages: ["Dutch 🇳🇱", "English 🇬🇧", "French 🇫🇷"],
+  hobbies: ["Skiing ⛷️", "Piano 🎹", "Hockey 🏑"]
 };
 ```
 
