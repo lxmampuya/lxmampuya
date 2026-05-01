@@ -1,6 +1,6 @@
 <!-- Animated Banner Header - Customized to your Navy Blue Palette -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:002D5A,50:004B8D,100:002D5A&height=260&section=header&text=ALEX%20MAMPUYA&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Robotics%20MSc%20Student%20%7C%20Machine%20Learning%20%7C%20System%20Architecture&descAlignY=58&fontColor=fff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:002D5A,50:004B8D,100:002D5A&height=260&section=header&text=ALEX%20MAMPUYA&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Autonomy&Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=58&fontColor=fff" />
 </div>
 
 <div align="center">
