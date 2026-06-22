@@ -51,6 +51,7 @@ const alex = {
 | 🚁 | **Autonomous MAV Flight (paparazzi)** | **Full-Pipeline Integration.** Developed gate detection from monocular camera feeds and a sensor-fusion-based action controller. Deployed in a real-world test environment. | Python · C++ · Computer Vision · Control Theory · Real-World Deployment |
 | 🤖 | **Machine Learning for Navigation** | **Behavioral Cloning.** Trained a Random Forest model on robotic image sequences (video) to predict optimal navigation steps for object tracking. Contributed to the feature extractor and model architecture. | Python · Random Forest · Feature Extraction · Computer Vision |
 | 💻 | **Autonomous Quadcopter Navigation** | **System Architect.** Designed a dynamic simulation environment and integrated the full software stack. Implemented path planning (RRT*) and a centralized controller for autonomous flight. | Python · Simulation Design · RRT* Planning |
+| 🎨 | **Evolutionary Van Gogh** | **Genetic Algorithm Optimization.** Hypothesized, designed, and tested various Genetic Algorithms to solve a single-objective evolutionary computing task to reproduce a painting. | Python · Genetic Algorithms · Evolutionary Computing · Optimization |
 
 > **Note on Code Availability:**
 > Some of these projects were developed within private local environments. While the source code is not public, I am happy to discuss the technical architecture, implementation challenges, and methodologies.
