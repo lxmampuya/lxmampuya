@@ -48,9 +48,9 @@ const alex = {
 
 | Status | Project | What | Stack |
 |:---|:---|:---|:---|
-| 🚁 | **Autonomous MAV Flight** | **Full-Pipeline Integration.** Developed gate detection from monocular camera feeds and a sensor-fusion-based action controller. Deployed in a real-world test environment. | Python · C++ · Computer Vision · Control Theory · Real-World Deployment |
+| 🚁 | **Autonomous MAV Flight (paparazzi)** | **Full-Pipeline Integration.** Developed gate detection from monocular camera feeds and a sensor-fusion-based action controller. Deployed in a real-world test environment. | Python · C++ · Computer Vision · Control Theory · Real-World Deployment |
 | 🤖 | **Behavioral Cloning Agent** | **Behavioral Cloning.** Trained a Random Forest model on robotic image sequences (video) to predict optimal navigation steps for object tracking. Contributed to the feature extractor and model architecture. | Python · Random Forest · Feature Extraction · Computer Vision |
-| 💻 | **Autonomous Drone Navigation** | **System Architect.** Designed a dynamic simulation environment and integrated the full software stack. Implemented path planning (RRT*) and a centralized controller for autonomous flight. | Python · Simulation Design · RRT* Planning |
+| 💻 | **Autonomous Drone Navigation (PDM project)** | **System Architect.** Designed a dynamic simulation environment and integrated the full software stack. Implemented path planning (RRT*) and a centralized controller for autonomous flight. | Python · Simulation Design · RRT* Planning |
 
 > [!IMPORTANT]
 > **Note on Code Availability:** 
