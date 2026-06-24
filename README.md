@@ -1,16 +1,11 @@
 <!-- Animated Banner Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:002D5A,50:004B8D,100:002D5A&height=260&section=header&text=ALEX%20MAMPUYA&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Autonomy%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Navigation&descAlignY=58&fontColor=fff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:002D5A,50:004B8D,100:002D5A&height=270&section=header&text=ALEX%20MAMPUYA&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Autonomy%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Navigation&descAlignY=58&fontColor=fff" />
 </div>
 
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=002D5A&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+%F0%9F%A4%96;MSc+Robotics+%40+TU+Delft"
-    alt="Typing SVG"
-  />
-</div>
-
-<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=002D5A&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+%F0%9F%A4%96;MSc+Robotics+%40+TU+Delft" alt="Typing SVG" />
+  <br>
   <img src="https://komarev.com/ghpvc/?username=lxmampuya&label=Profile%20Views&color=002D5A&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/lxmampuya?label=Followers&style=for-the-badge&color=004B8D" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/lxmampuya?label=Total%20Stars&style=for-the-badge&color=002D5A" alt="GitHub stars" />
@@ -31,14 +26,9 @@ const alex = {
     bachelors: "BSc Mechanical Engineering @ TU Delft (2021–2025)",
     minor: "Offshore Wind Energy @ Aerospace Engineering Faculty"
   },
-  interests: [
-    "Computer Vision & Perception",
-    "System Architecture",
-    "Predictive Modeling",
-    "Planning & Decision Making"
-  ],
+  interests: ["Autonomy", "Computer Vision", "Machine Learning", "Planning & Decision Making"],
   languages: ["Dutch 🇳🇱", "English 🇬🇧", "French 🇫🇷"],
-  hobbies: ["Skiing ⛷️", "Piano 🎹", "Hockey 🏑"]
+  hobbies: ["Skiing ⛷️", "Tennis 🎾", "Piano 🎹", ]
 };
 ```
 
@@ -48,10 +38,13 @@ const alex = {
 
 | Status | Project | What | Stack |
 |:---|:---|:---|:---|
-| 🚁 | **Autonomous MAV Flight (paparazzi)** | **Full-Pipeline Integration.** Developed gate detection from monocular camera feeds and a sensor-fusion-based action controller. Deployed in a real-world test environment. | Python · C++ · Computer Vision · Control Theory · Real-World Deployment |
-| 🤖 | **Machine Learning for Navigation** | **Behavioral Cloning.** Trained a Random Forest model on robotic image sequences (video) to predict optimal navigation steps for object tracking. Contributed to the feature extractor and model architecture. | Python · Random Forest · Feature Extraction · Computer Vision |
-| 💻 | **Autonomous Quadcopter Navigation** | **System Architect.** Designed a dynamic simulation environment and integrated the full software stack. Implemented path planning (RRT*) and a centralized controller for autonomous flight. | Python · PyBullet · Simulation Design · RRT* Planning |
+| 🚁 | **Autonomous MAV Flight (paparazzi)** | **Full-Pipeline Integration.** Developed gate detection from monocular camera feeds and a sensor-fusion-based action controller. Deployed in a real-world test environment. | Python · C++ · Computer Vision · Control Theory · SIM-TO-REAL |
+| 💻 | **Autonomous Quadcopter Navigation** | **System Architect.** Designed a dynamic simulation environment and integrated the full software stack. Implemented path planning (RRT*) and a centralized controller for autonomous flight. | Python · PyBullet · RRT* · MPPI · MPC  |
 | 🎨 | **Evolutionary Van Gogh** | **Genetic Algorithm Optimization.** Hypothesized, designed, and tested various Genetic Algorithms to solve a single-objective evolutionary computing task to reproduce a painting. | Python · Genetic Algorithms · Evolutionary Computing · Optimization |
+| 🤖 | **Machine Learning for Navigation** | **Behavioral Cloning.** Trained a Random Forest model on robotic image sequences (video) to predict optimal navigation steps for object tracking. Contributed to the feature extractor and model architecture. | Python · Random Forest · CNN · Feature Extraction · Computer Vision |
+| 🧍 | **Sensor Fusion & Mapping** | **Multi-Modal Perception System.** Implemented homogeneous coordinate transformations to fuse camera, lidar, and radar. Executed ground segmentation, YOLO?LiDAR-based pedestrian localization, and temporal point cloud mapping from a recorded data sequence. | Python · YOLO · Sensor Fusion |
+| 🚙 | **Ground Robot Perception & Control** | **Perception-Driven Obstacle Avoidance.** Engineered a holonomic robot for path-following between cones using Lidar and PCL, with camera-based emergency stops for human detection in a Gazebo simulation. | ROS2 · Gazebo · Python · PCL · Lidar |
+
 
 > **Note on Code Availability:**
 > Some of these projects were developed within private local environments. While the source code is not public, I am happy to discuss the technical architecture, implementation challenges, and methodologies.
@@ -90,10 +83,6 @@ const alex = {
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=002D5A&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer Typing SVG" />
-</div>
-
-<div align="center">
-  <p><i>Open to robotics opportunities and innovative ventures 🚀</i></p>
 </div>
 
 <div align="center">
