@@ -34,7 +34,7 @@ const alex = {
 
 ### Featured Work
 
-| Status | Project | What | Stack |
+|  | Project | What | Stack |
 |:---|:---|:---|:---|
 | 🚁 | **Autonomous MAV Flight (paparazzi)** | **Full-Pipeline Integration.** Developed gate detection from monocular camera feeds and a sensor-fusion-based action controller. Deployed in a real-world test environment. | Python · C++ · Computer Vision · Control Theory · SIM-TO-REAL |
 | 💻 | **Autonomous Quadcopter Navigation** | **System Architect.** Designed a dynamic simulation environment and integrated the full software stack. Implemented path planning (RRT*) and a centralized controller for autonomous flight. | Python · PyBullet · RRT* · MPPI · MPC  |
