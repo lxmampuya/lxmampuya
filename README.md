@@ -32,7 +32,7 @@ const alex = {
 
 ---
 
-### Featured Work
+### Featured Work & Projects
 
 |  | Project | What | Stack |
 |:---|:---|:---|:---|
