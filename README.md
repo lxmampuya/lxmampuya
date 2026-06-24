@@ -45,7 +45,7 @@ const alex = {
 
 
 > **Note on Code Availability:**
-> Some of these projects were developed within private local environments. While the source code is not public, I am happy to discuss the technical architecture, implementation challenges, and methodologies.
+> The last 3 of these projects were developed within private local environments. While the source code is not public, I am happy to discuss.
  
 ### Tech
 
