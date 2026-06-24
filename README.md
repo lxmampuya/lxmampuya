@@ -1,17 +1,15 @@
 <!-- Animated Banner Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:002D5A,50:004B8D,100:002D5A&height=270&section=header&text=ALEX%20MAMPUYA&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Autonomy%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Navigation&descAlignY=58&fontColor=fff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:002D5A,50:004B8D,100:002D5A&height=170&section=header&text=ALEX%20MAMPUYA&fontSize=57&animation=fadeIn&fontAlignY=40&desc=Autonomy%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Navigation&descAlignY=70&fontColor=fff" />
+  
+  <div style="margin-top: -30px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=002D5A&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+%F0%9F%A4%96;MSc+Robotics+%40+TU+Delft" alt="Typing SVG" />
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=lxmampuya&label=Profile%20Views&color=002D5A&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/lxmampuya?label=Followers&style=for-the-badge&color=004B8D" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/stars/lxmampuya?label=Total%20Stars&style=for-the-badge&color=002D5A" alt="GitHub stars" />
+  </div>
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=002D5A&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+%F0%9F%A4%96;MSc+Robotics+%40+TU+Delft" alt="Typing SVG" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=lxmampuya&label=Profile%20Views&color=002D5A&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/lxmampuya?label=Followers&style=for-the-badge&color=004B8D" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/lxmampuya?label=Total%20Stars&style=for-the-badge&color=002D5A" alt="GitHub stars" />
-</div>
-
-<br>
 
 ---
 
@@ -56,6 +54,8 @@ const alex = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PCL](https://img.shields.io/badge/PCL-000000?style=flat-square&logo=pcl&logoColor=white)
+![Nav2](https://img.shields.io/badge/Nav2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
