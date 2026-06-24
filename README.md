@@ -32,19 +32,19 @@ const alex = {
 
 ---
 
-### Featured Work & Projects
+### Robotics
 
 |  | Project | What | Stack |
 |:---|:---|:---|:---|
 | 🚁 | **Autonomous MAV Flight (paparazzi)** | **Full-Pipeline Integration.** Developed gate detection from monocular camera feeds and a sensor-fusion-based action controller. Deployed in a real-world test environment. | Python · C++ · Computer Vision · Control Theory · SIM-TO-REAL |
-| 💻 | **Autonomous Quadcopter Navigation** | **System Architect.** Designed a dynamic simulation environment and integrated the full software stack. Implemented path planning (RRT*) and a centralized controller for autonomous flight. | Python · PyBullet · RRT* · MPPI · MPC  |
+| 💻 | **Autonomous Quadcopter Navigation** | **System Architect.** Designed a dynamic simulation environment and integrated the full software stack. Implemented path planning (RRT*) and a centralized controller for autonomous flight. | Python · PyBullet · RRT* · MPPI |
 | 🎨 | **Evolutionary Van Gogh** | **Genetic Algorithm Optimization.** Hypothesized, designed, and tested various Genetic Algorithms to solve a single-objective evolutionary computing task to reproduce a painting. | Python · Genetic Algorithms · Evolutionary Computing · Optimization |
 | 🤖 | **Machine Learning for Navigation** | **Behavioral Cloning.** Trained a Random Forest model on robotic image sequences (video) to predict optimal navigation steps for object tracking. Contributed to the feature extractor and model architecture. | Python · Random Forest · CNN · Feature Extraction · Computer Vision |
 | 🧍 | **Sensor Fusion & Mapping** | **Multi-Modal Perception System.** Implemented homogeneous coordinate transformations to fuse camera, lidar, and radar. Executed ground segmentation, YOLO?LiDAR-based pedestrian localization, and temporal point cloud mapping from a recorded data sequence. | Python · YOLO · Sensor Fusion |
 | 🚙 | **Ground Robot Perception & Control** | **Perception-Driven Obstacle Avoidance.** Engineered a holonomic robot for path-following between cones using Lidar and PCL, with camera-based emergency stops for human detection in a Gazebo simulation. | ROS2 · Gazebo · Python · PCL · Lidar |
 
 
-> **Note on Code Availability:**
+> **Note:**
 > The last 3 of these projects were developed within private local environments. While the source code is not public, I am happy to discuss.
  
 ### Tech
