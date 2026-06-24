@@ -7,7 +7,7 @@
     <br>
     <img src="https://komarev.com/ghpvc/?username=lxmampuya&label=Profile%20Views&color=002D5A&style=for-the-badge" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/lxmampuya?label=Followers&style=for-the-badge&color=004B8D" alt="GitHub followers" />
-    <img src="https://img.shields.io/github/stars/lxmampuya?label=Total%20Stars&style=for-the-badge&color=002D5A" alt="GitHub stars" />
+<!--     <img src="https://img.shields.io/github/stars/lxmampuya?label=Total%20Stars&style=for-the-badge&color=002D5A" alt="GitHub stars" />       -->
   </div>
 </div>
 
